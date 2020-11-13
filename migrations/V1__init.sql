@@ -1,3 +1,3 @@
 CREATE TABLE test (
-    column1 varchar(30),
-);
+    column1 varchar(30)
+)
